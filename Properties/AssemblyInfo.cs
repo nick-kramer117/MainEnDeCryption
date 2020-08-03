@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
 [assembly: AssemblyTitle("MainEnDeCryption")]
-[assembly: AssemblyDescription("Библиотека методов шифрования символов")]
+[assembly: AssemblyDescription("My simple symmetric encryption method using ternary logic")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Nick Kramer")]
 [assembly: AssemblyProduct("MainEnDeCryption")]
